@@ -5,7 +5,9 @@
     "dependencies": {
         "socket.io": "latest",
         "express": "latest",
-        "jade": "latest"
+        "pug": "latest",
+		"jquery": "latest",
+		"require": "latest"
     },
     "author": "developer"
 }
